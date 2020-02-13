@@ -85,3 +85,16 @@ main{
     color:white;
     font-size: 1.5em;
 }
+footer{
+    padding: 15px;
+    margin : auto;
+    display: flex;
+    vertical-align: right;
+    background-color: rgb(103, 104, 104);
+    color : white;
+    height: auto;
+}
+footer div {
+    width: 30%;
+    margin-left: 30px;
+}
