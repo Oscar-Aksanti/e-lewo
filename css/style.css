@@ -111,10 +111,11 @@ footer div {
     .image img{
         width: 100%;
         height: auto;
+        margin:0px;
     }
     footer div{
     width: 100%;
-    display:flex;
+    display:block;
     margin-left: 0px;
     }
 }
