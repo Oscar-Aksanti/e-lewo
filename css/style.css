@@ -109,11 +109,12 @@ footer div {
 }
 @media screen and (max-width: 800px){
     .image img{
-        width: 100px;
+        width: 100%;
         height: auto;
     }
     footer div{
     width: 100%;
+    display:flex;
     margin-left: 0px;
     }
 }
